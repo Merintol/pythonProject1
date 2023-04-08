@@ -1,7 +1,7 @@
 import random
 
-starting_food = 100
-starting_money = 1000
+starting_food = 1000
+starting_money = 1500
 
 starting_customers = 50
 
